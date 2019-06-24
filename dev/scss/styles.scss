@@ -1,0 +1,20 @@
+//Reseteo de los estilos por defecto del navegador
+@import "base/normalize";
+//Estilos a las etiquetas base de nuestro sitio web, body, a, etc.
+@import "base/base";
+
+//Elementos de configuración
+//Colores
+
+//Fuentes
+
+//Reseteos que se aplican a menudo en distintos elementos, como listas o inversión de colores en el caso de tener distintos temas de color
+
+//mixins
+@import "mixins/mixins";
+
+//Estilos de ayuda que se utilizan a menudo como ocultar un elemento, quitar el scroll, etc.
+@import "helpers/helpers";
+
+//Estilos de los elementos que se repitirán en el sitio web
+@import "blocks/buttons";
